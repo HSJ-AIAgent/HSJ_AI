@@ -1,0 +1,14 @@
+# 기존 독립 저장소 (별도 관리)
+ai_agent/
+meta_landing/
+
+# Playwright MCP 캐시
+.playwright-mcp/
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# 임시 파일
+*.tmp
+*.log
